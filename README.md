@@ -13,5 +13,4 @@ nix run github:pizeroLOL/cw-nix#
 ## 已知问题
 
 - 在 QT_QPA_PLATFORM=xcb 环境变量下设置闪退（修复中）
-- 错误的版本号（修复中）
 - wayland 下显示不正常（特性，没法修）
